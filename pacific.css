@@ -165,14 +165,19 @@ form {
 }
 
 input, textarea {
-    margin-bottom: .5em;
+    margin-bottom: 0;
 }
+
 
 #reshero{
     height: 300px;
     background-image: url(images/ocean.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
+}
+
+#myAddress{
+    text-align: center;
 }
 
 
